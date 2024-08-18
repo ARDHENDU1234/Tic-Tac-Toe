@@ -1,14 +1,13 @@
-# TicTacToe-game
+## Tic Tac Toe Game
 
-Welcome to my Tic Tac Toe game project! This simple yet fun game is built using HTML, CSS, and JavaScript (ES6) and serves as an excellent showcase of my web development skills and DOM manipulation expertise.
+### Overview
+Welcome to my Tic Tac Toe game project! This engaging and interactive game is crafted using HTML, CSS, and JavaScript (ES6), showcasing my web development skills and expertise in DOM manipulation. It's a classic game that offers a fun and competitive experience right in your browser.
 
-## Play the Game
+### Features
+- **Multiplayer Gameplay**: Challenge a friend and enjoy a game of Tic Tac Toe directly in your browser.
+- **Interactive User Interface**: An intuitive and responsive design enhances the user experience.
+- **Modern Web Technologies**: Built with HTML, CSS, and JavaScript (ES6) to ensure a robust and efficient application.
+- **Fun and Engaging**: A delightful way to pass the time and test your strategic thinking against friends.
 
-🔗 Play Tic Tac Toe - https://tic-tac-toe-himanshu.netlify.app/
-
-## Features
-
-- Play Tic Tac Toe with a friend in your browser.
-- Interactive and responsive user interface.
-- Built using modern web development technologies.
-- An enjoyable way to pass the time and challenge your friends!
+### Demo
+Play the game live [here](https://tic-tac-toe-ardhendu-shekhar.vercel.app/).
